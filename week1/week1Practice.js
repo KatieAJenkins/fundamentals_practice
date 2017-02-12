@@ -11,15 +11,19 @@
 //
 // console.log(whatImLearning);
 
-//Odd or Even Numbers
+// Odd or Even Numbers
+// function oddEven (number){
+//   if (number % 2 === 0) {
+//     console.log("It's even!");
+//   }
+//   else {
+//     console.log("It's odd!");
+//   };
+// };
+//
+// oddEven(-2);
 
-function oddEven (number){
-  if (number % 2 === 0) {
-    console.log("It's even!");
-  }
-  else {
-    console.log("It's odd!");
-  };
-};
-
-oddEven(-2);
+// //String length
+// var string = "Hello there, Katie!";
+// var lengthOfString = string.length;
+// console.log(lengthOfString);
