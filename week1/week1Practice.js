@@ -3,9 +3,23 @@
 // var greeting = "Hello There!";
 // document.getElementById('message').innerHTML = greeting;
 
-var skill = "HTML";
-var school = "Galvanize";
+//String Practice
+// var skill = "HTML";
+// var school = "Galvanize";
+//
+// var whatImLearning = "I am learning " + skill + " at " + school + "!";
+//
+// console.log(whatImLearning);
 
-var whatImLearning = "I am learning " + skill + " at " + school + "!";
+//Odd or Even Numbers
 
-console.log(whatImLearning);
+function oddEven (number){
+  if (number % 2 === 0) {
+    console.log("It's even!");
+  }
+  else {
+    console.log("It's odd!");
+  };
+};
+
+oddEven(-2);
