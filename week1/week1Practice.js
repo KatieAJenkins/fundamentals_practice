@@ -3,6 +3,10 @@
 // var greeting = "Hello There!";
 // document.getElementById('message').innerHTML = greeting;
 
+// var headingElement = document.getElementById("message").value;
+//
+// console.log(headingElement);
+
 //String Practice
 // var skill = "HTML";
 // var school = "Galvanize";
